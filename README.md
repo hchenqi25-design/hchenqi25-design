@@ -68,10 +68,11 @@
 ## 📊 Profile Statistics
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chenqi&theme=radical&show_icons=true&count_private=true&custom_title=Chenqi's%20GitHub%20Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chenqi&theme=radical&show_icons=true&count_private=true" />
   <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chenqi&theme=radical&hide_border=false" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chenqi&theme=radical&hide_border=false" />
 </div>
+
 
 <br>
 
