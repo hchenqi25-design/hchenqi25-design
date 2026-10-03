@@ -64,12 +64,13 @@
 
 ---
 
+
 ## 📊 Profile Statistics
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chenqihong&theme=radical&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=radical&show_icons=true&count_private=true&custom_title=Chenqi's%20GitHub%20Stats" />
   <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chenqihong&theme=radical&hide_border=false" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=false" />
 </div>
 
 <br>
